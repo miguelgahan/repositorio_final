@@ -1,0 +1,166 @@
+header{
+    background-image: url("https://snarkypuppy.com/assets/backgrounds/light-paper.jpg");
+    font-family: 'Cormorant Garamond', serif;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+}
+
+main{
+    background-image: url("https://snarkypuppy.com/assets/backgrounds/dark-paper.jpg");
+    background-attachment: fixed; 
+}
+
+footer{
+    background-image: url("https://snarkypuppy.com/assets/backgrounds/light-paper.jpg");
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    
+}
+footer .img-fluid:hover{
+    transform: scale(1.1);
+}
+.copyright{
+    text-align: center;
+    padding-top: 2%;
+}
+.navbar{
+    background-image: url("https://snarkypuppy.com/assets/backgrounds/light-paper.jpg");
+    padding-left: 33%;
+    padding-top: 2%;  
+    font-size: 130%;
+}
+
+.navbar-brand{
+    font-size: 130%;
+}
+.navbar-brand:hover{
+    transform: scale(1.1);
+}
+.nav-link:hover{
+    transform: scale(1.1);
+}
+
+.carousel{
+    margin-top: 25%;
+}
+.citaDelMain{
+    font-family: 'Nunito', sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    font-style: oblique;
+    margin-top: 30%;
+    font-variant: small-caps; 
+}
+.historia{
+    font-family: 'Oswald', sans-serif;
+    color: whitesmoke;
+    text-align: center;  
+    padding-top: 10%;
+    padding-bottom: 2%;  
+}
+.novedades{
+    font-family: 'Oswald', sans-serif;
+    color: whitesmoke;
+    text-align: center;  
+    padding-bottom: 2%;  
+}
+.textoMain{
+    font-family: 'Nunito', sans-serif;  
+    color: whitesmoke;
+    text-align: justify;
+    text-align: center;
+    padding-bottom: 10%;
+    font-variant: small-caps;
+
+}
+.containerVideosInicio{
+    padding-top: 2%;
+    padding-bottom: 10%;
+    text-align: center;
+}
+
+
+.mainDiscografia{
+    background-image: url("../media/labigaestudio.jpg");
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+    color: whitesmoke; 
+    font-family: 'Oswald', sans-serif;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+}
+.videosDiscografia{
+    padding-top: 10%;
+    text-align: center;
+}
+.nombreDisco{
+    text-align: center;
+    background-image: url("../media/dark-paper\ fondo\ web.jpeg");
+
+}
+.añoDisco{
+    text-align: center;
+    background-image: url("../media/dark-paper\ fondo\ web.jpeg");
+}
+.descripcionDisco{
+    background-image: url("../media/dark-paper\ fondo\ web.jpeg");
+}
+.list-group-item{
+    color: whitesmoke;
+    background-image: url("../media/dark-paper\ fondo\ web.jpeg");   
+}
+
+.mainFechas{
+    background-image: url("../media/labigatrastienda\ \(3\).jpg");
+    background-position: center;
+    color: whitesmoke;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Oswald', sans-serif; ;
+    padding-bottom: 10%;
+    text-align: center;
+}
+.textoEntradas{
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.mapaTrastienda{
+    text-decoration: none;
+    color: wheat;
+    font-size: 180%;
+    background-color: black;     
+}
+.mapaMvseo{
+   text-decoration: none;
+   color: wheat;
+   font-size: 180%;
+   background-color: black;
+}
+.mapaMakena{
+    text-decoration: none;
+    color: wheat;
+    font-size: 180%;
+    background-color: black;
+     
+}
+.mapaGroove{
+    text-decoration: none;
+    color: wheat;
+    font-size: 180%;
+    background-color: black;    
+}
+.videosFechas{
+    padding-top: 10%;
+}
+
+.embed-responsive:hover{
+    transform: scale(1.1);
+}
+
+
+
